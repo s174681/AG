@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Egzaminy>
+  <Egzamin>
+    <egzaminId>1</egzaminId>
+    <osrodekKod>060201-04007</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Zawodowych i Ogólnokształcących w Biłgoraju</osrodekNazwa>
+    <osrodekMiejscowosc>Biłgoraj</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <!--<czasTrwania>2</czasTrwania>-->
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>2</egzaminId>
+    <osrodekKod>060214-0300K</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ogólnokształcących i Zawodowych</osrodekNazwa>
+    <osrodekMiejscowosc>Turobin</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <!--<czasTrwania>2</czasTrwania>-->
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>3</egzaminId>
+    <osrodekKod>060601-09004</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ponadgimnazjalnych nr 1 im. Tadeusza Kościuszki</osrodekNazwa>
+    <osrodekMiejscowosc>Krasnystaw</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>4</egzaminId>
+    <osrodekKod>060701-07003</osrodekKod>
+    <osrodekNazwa>Zespół Szkół nr 3</osrodekNazwa>
+    <osrodekMiejscowosc>Kraśnik</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>5</egzaminId>
+    <osrodekKod>060801-0200Z</osrodekKod>
+    <osrodekNazwa>Regionalne Centrum Edukacji Zawodowej</osrodekNazwa>
+    <osrodekMiejscowosc>Lubartów</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>6</egzaminId>
+    <osrodekKod>060903-03003</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Zawodowych nr 1 im. majora Henryka Dobrzańskiego</osrodekNazwa>
+    <osrodekMiejscowosc>Bychawa</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>7</egzaminId>
+    <osrodekKod>060911-0500W</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ponadgimnazjalnych w Niemcach</osrodekNazwa>
+    <osrodekMiejscowosc>Niemce</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>8</egzaminId>
+    <osrodekKod>060912-0100N</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Techniki Rolniczej im. Wincentego Witosa</osrodekNazwa>
+    <osrodekMiejscowosc>Piotrowice</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>9</egzaminId>
+    <osrodekKod>060912-0200C</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Rolniczych Centrum Kształcenia Praktycznego w Pszczelej Woli</osrodekNazwa>
+    <osrodekMiejscowosc>Pszczela Wola</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>10</egzaminId>
+    <osrodekKod>061206-01002</osrodekKod>
+    <osrodekNazwa>Zespół Szkół w Poniatowej</osrodekNazwa>
+    <osrodekMiejscowosc>Poniatowa</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <!--<czasTrwania>2</czasTrwania>-->
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>11</egzaminId>
+    <osrodekKod>061304-05005</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ponadgimnazjalnych im. Stanisława Staszica</osrodekNazwa>
+    <osrodekMiejscowosc>Parczew</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>12</egzaminId>
+    <osrodekKod>061403-0200W</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Nr 2 w Janowcu</osrodekNazwa>
+    <osrodekMiejscowosc>Janowiec</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>13</egzaminId>
+    <osrodekKod>061408-03008</osrodekKod>
+    <osrodekNazwa>Zespół Szkół im. Zygmunta Chmielewskiego</osrodekNazwa>
+    <osrodekMiejscowosc>Nałęczów</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>14</egzaminId>
+    <osrodekKod>061502-0200Q</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Rolniczych</osrodekNazwa>
+    <osrodekMiejscowosc>Wola Osowińska</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>2</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>15</egzaminId>
+    <osrodekKod>061601-07001</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Zawodowych nr 1</osrodekNazwa>
+    <osrodekMiejscowosc>Dęblin</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>16</egzaminId>
+    <osrodekKod>066401-1100B</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ponadgimnazjalnych Nr 3 im. Armii Krajowej w Zamościu</osrodekNazwa>
+    <osrodekMiejscowosc>Zamość</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>17</egzaminId>
+    <osrodekKod>120305-0200N</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Techniczno - Usługowych w Trzebini</osrodekNazwa>
+    <osrodekMiejscowosc>Trzebinia</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <!--<czasTrwania>2</czasTrwania>-->
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>18</egzaminId>
+    <osrodekKod>061604-02506</osrodekKod>
+    <osrodekNazwa>Policealne Studium Zawodowe w Rykach</osrodekNazwa>
+    <osrodekMiejscowosc>Ryki</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>19</egzaminId>
+    <osrodekKod>061801-0800G</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Nr 3 im. M. Rataja</osrodekNazwa>
+    <osrodekMiejscowosc>Tomaszów Lubelski</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+   <!--<czasTrwania>3</czasTrwania>-->
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>0</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>20</egzaminId>
+    <osrodekKod>061906-0200A</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Centrum Kształcenia Rolniczego im. Ireny Kosmowskiej</osrodekNazwa>
+    <osrodekMiejscowosc>Korolówka Osada</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>21</egzaminId>
+    <osrodekKod>066201-1000W</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Budowlanych i Geodezyjnych w Chełmie</osrodekNazwa>
+    <osrodekMiejscowosc>Chełm</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>22</egzaminId>
+    <osrodekKod>066201-19005</osrodekKod>
+    <osrodekNazwa>Centrum Kształcenia Ustawicznego</osrodekNazwa>
+    <osrodekMiejscowosc>Chełm</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>23</egzaminId>
+    <osrodekKod>066301-1050A</osrodekKod>
+    <osrodekNazwa>Policealna Szkoła Europejska w Lublinie</osrodekNazwa>
+    <osrodekMiejscowosc>Lublin</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.12</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>0</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>24</egzaminId>
+    <osrodekKod>060911-0500W</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Ponadgimnazjalnych w Niemcach</osrodekNazwa>
+    <osrodekMiejscowosc>Niemce</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.13</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>25</egzaminId>
+    <osrodekKod>060701-07003</osrodekKod>
+    <osrodekNazwa>Zespół Szkół nr 3</osrodekNazwa>
+    <osrodekMiejscowosc>Kraśnik</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.13</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>
+  <Egzamin>
+    <egzaminId>26</egzaminId>
+    <osrodekKod>060201-04007</osrodekKod>
+    <osrodekNazwa>Zespół Szkół Zawodowych i Ogólnokształcących w Biłgoraju</osrodekNazwa>
+    <osrodekMiejscowosc>Biłgoraj</osrodekMiejscowosc>
+    <kwalifikacjeKod>E.13</kwalifikacjeKod>
+    <kwalifikacjeNazwa>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami</kwalifikacjeNazwa>
+    <czasTrwania>1</czasTrwania>
+    <liczbaEgzamintorow>1</liczbaEgzamintorow>
+    <pracujeWeekend>1</pracujeWeekend>
+  </Egzamin>  
+</Egzaminy>

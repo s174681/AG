@@ -1,0 +1,1262 @@
+<Qualifications>
+  <Qualification>
+    <qualificationId>1</qualificationId>
+    <qualificationCode>A.01</qualificationCode>
+    <qualificationName>Wytwarzanie wyrobów ze szkła</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>2</qualificationId>
+    <qualificationCode>A.02</qualificationCode>
+    <qualificationName>Przygotowywanie surowców i mas ceramicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>3</qualificationId>
+    <qualificationCode>A.03</qualificationCode>
+    <qualificationName>Formowanie, suszenie i wypalanie półfabrykatów ceramicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>4</qualificationId>
+    <qualificationCode>A.04</qualificationCode>
+    <qualificationName>Wytwarzanie wyrobów włókienniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>5</qualificationId>
+    <qualificationCode>A.05</qualificationCode>
+    <qualificationName>Wykańczanie wyrobów włókienniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>6</qualificationId>
+    <qualificationCode>A.06</qualificationCode>
+    <qualificationName>Obsługa maszyn i urządzeń przemysłu chemicznego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>7</qualificationId>
+    <qualificationCode>A.07</qualificationCode>
+    <qualificationName>Wykonywanie, naprawa i renowacja wyrobów kaletniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>8</qualificationId>
+    <qualificationCode>A.08</qualificationCode>
+    <qualificationName>Wytwarzanie obuwia</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>9</qualificationId>
+    <qualificationCode>A.09</qualificationCode>
+    <qualificationName>Wyprawianie skór</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>10</qualificationId>
+    <qualificationCode>A.10</qualificationCode>
+    <qualificationName>Wykonywanie wyrobów tapicerowanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>11</qualificationId>
+    <qualificationCode>A.11</qualificationCode>
+    <qualificationName>Wykonywanie, naprawa i renowacja wyrobów kuśnierskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>12</qualificationId>
+    <qualificationCode>A.12</qualificationCode>
+    <qualificationName>Wykonywanie usług krawieckich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>13</qualificationId>
+    <qualificationCode>A.13</qualificationCode>
+    <qualificationName>Wytwarzanie wyrobów stolarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>14</qualificationId>
+    <qualificationCode>A.14</qualificationCode>
+    <qualificationName>Realizacja procesów introligatorskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>15</qualificationId>
+    <qualificationCode>A.15</qualificationCode>
+    <qualificationName>Realizacja procesów drukowania z form drukowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>16</qualificationId>
+    <qualificationCode>A.16</qualificationCode>
+    <qualificationName>Wytwarzanie, konserwacja i renowacja rękodzielniczych wyrobów włókienniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>17</qualificationId>
+    <qualificationCode>A.17</qualificationCode>
+    <qualificationName>Wykonywanie wyrobów koszykarsko-plecionkarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>18</qualificationId>
+    <qualificationCode>A.18</qualificationCode>
+    <qualificationName>Prowadzenie sprzedaży</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>19</qualificationId>
+    <qualificationCode>A.19</qualificationCode>
+    <qualificationName>Wykonywanie zabiegów fryzjerskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>20</qualificationId>
+    <qualificationCode>A.20</qualificationCode>
+    <qualificationName>Rejestracja i obróbka obrazu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>21</qualificationId>
+    <qualificationCode>A.21</qualificationCode>
+    <qualificationName>Prowadzenie działalności informacyjno-bibliograficznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>22</qualificationId>
+    <qualificationCode>A.22</qualificationCode>
+    <qualificationName>Prowadzenie działalności handlowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>23</qualificationId>
+    <qualificationCode>A.23</qualificationCode>
+    <qualificationName>Projektowanie fryzur</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>24</qualificationId>
+    <qualificationCode>A.24</qualificationCode>
+    <qualificationName>Wykonywanie prac biurowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>25</qualificationId>
+    <qualificationCode>A.25</qualificationCode>
+    <qualificationName>Wykonywanie i realizacja projektów multimedialnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>26</qualificationId>
+    <qualificationCode>A.26</qualificationCode>
+    <qualificationName>Sprzedaż produktów i usług reklamowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>27</qualificationId>
+    <qualificationCode>A.27</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie kampanii reklamowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>28</qualificationId>
+    <qualificationCode>A.28</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie transportu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>29</qualificationId>
+    <qualificationCode>A.29</qualificationCode>
+    <qualificationName>Obsługa klientów i kontrahentów</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>30</qualificationId>
+    <qualificationCode>A.30</qualificationCode>
+    <qualificationName>Organizacja i monitorowanie przepływu zasobów i informacji w procesach produkcji, dystrybucji i magazynowania</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>31</qualificationId>
+    <qualificationCode>A.31</qualificationCode>
+    <qualificationName>Zarządzanie środkami technicznymi podczas realizacji procesów transportowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>32</qualificationId>
+    <qualificationCode>A.32</qualificationCode>
+    <qualificationName>Organizacja i monitorowanie przepływu zasobów i informacji w jednostkach organizacyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>33</qualificationId>
+    <qualificationCode>A.33</qualificationCode>
+    <qualificationName>Obsługa podróżnych w portach i terminalach</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>34</qualificationId>
+    <qualificationCode>A.34</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie prac związanych z przeładunkiem oraz magazynowaniem towarów i ładunków w portach i terminalach</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>35</qualificationId>
+    <qualificationCode>A.35</qualificationCode>
+    <qualificationName>Planowanie i prowadzenie działalności w organizacji</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>36</qualificationId>
+    <qualificationCode>A.36</qualificationCode>
+    <qualificationName>Prowadzenie rachunkowości</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>37</qualificationId>
+    <qualificationCode>A.37</qualificationCode>
+    <qualificationName>Planowanie i prowadzenie żeglugi po śródlądowych drogach wodnych i morskich wodach wewnętrznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>38</qualificationId>
+    <qualificationCode>A.38</qualificationCode>
+    <qualificationName>Obsługa siłowni statkowych, urządzeń pomocniczych i mechanizmów pokładowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>39</qualificationId>
+    <qualificationCode>A.39</qualificationCode>
+    <qualificationName>Pełnienie wachty morskiej i portowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>40</qualificationId>
+    <qualificationCode>A.40</qualificationCode>
+    <qualificationName>Planowanie i kontrola produkcji poligraficznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>41</qualificationId>
+    <qualificationCode>A.41</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie procesów wytwarzania wyrobów włókienniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>42</qualificationId>
+    <qualificationCode>A.42</qualificationCode>
+    <qualificationName>Opracowywanie dokumentacji wytwarzania włókienniczych wyrobów dekoracyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>43</qualificationId>
+    <qualificationCode>A.43</qualificationCode>
+    <qualificationName>Organizacja procesów wytwarzania włókienniczych wyrobów dekoracyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>44</qualificationId>
+    <qualificationCode>A.44</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie ruchu pociągów</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>45</qualificationId>
+    <qualificationCode>A.45</qualificationCode>
+    <qualificationName>Planowanie i realizacja przewozów kolejowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>46</qualificationId>
+    <qualificationCode>A.46</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesów wytwarzania wyrobów skórzanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>47</qualificationId>
+    <qualificationCode>A.47</qualificationCode>
+    <qualificationName>Organizacja procesów wytwarzania wyrobów ze szkła</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>48</qualificationId>
+    <qualificationCode>A.48</qualificationCode>
+    <qualificationName>Projektowanie wyrobów odzieżowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>49</qualificationId>
+    <qualificationCode>A.49</qualificationCode>
+    <qualificationName>Organizacja procesów wytwarzania wyrobów odzieżowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>50</qualificationId>
+    <qualificationCode>A.50</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesów przetwarzania drewna</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>51</qualificationId>
+    <qualificationCode>A.51</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesów wytwarzania wyrobów ceramicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>52</qualificationId>
+    <qualificationCode>A.52</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesów wytwarzania obuwia</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>53</qualificationId>
+    <qualificationCode>A.53</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesu wyprawy skór</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>54</qualificationId>
+    <qualificationCode>A.54</qualificationCode>
+    <qualificationName>Przygotowywanie materiałów graficznych do procesu drukowania</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>55</qualificationId>
+    <qualificationCode>A.55</qualificationCode>
+    <qualificationName>Drukowanie cyfrowe</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>56</qualificationId>
+    <qualificationCode>A.56</qualificationCode>
+    <qualificationName>Organizacja i kontrolowanie procesów technologicznych w przemyśle chemicznym</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>57</qualificationId>
+    <qualificationCode>A.57</qualificationCode>
+    <qualificationName>Produkcja mas włóknistych i wytworów papierniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>58</qualificationId>
+    <qualificationCode>A.58</qualificationCode>
+    <qualificationName>Przetwórstwo wytworów papierniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>59</qualificationId>
+    <qualificationCode>A.59</qualificationCode>
+    <qualificationName>Przygotowywanie sprzętu, odczynników chemicznych i próbek do badań analitycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>60</qualificationId>
+    <qualificationCode>A.60</qualificationCode>
+    <qualificationName>Wykonywanie badań analitycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>61</qualificationId>
+    <qualificationCode>A.61</qualificationCode>
+    <qualificationName>Wykonywanie zabiegów kosmetycznych twarzy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>62</qualificationId>
+    <qualificationCode>A.62</qualificationCode>
+    <qualificationName>Wykonywanie zabiegów kosmetycznych ciała, dłoni i stóp</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>63</qualificationId>
+    <qualificationCode>A.63</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie archiwum</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>64</qualificationId>
+    <qualificationCode>A.64</qualificationCode>
+    <qualificationName>Opracowywanie materiałów archiwalnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>65</qualificationId>
+    <qualificationCode>A.65</qualificationCode>
+    <qualificationName>Rozliczanie wynagrodzeń i danin publicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>66</qualificationId>
+    <qualificationCode>A.66</qualificationCode>
+    <qualificationName>Świadczenie usług pocztowych, finansowych i kurierskich oraz w zakresie obrotu towarowego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>67</qualificationId>
+    <qualificationCode>A.67</qualificationCode>
+    <qualificationName>Wykonywanie zadań rozdzielczo-ekspedycyjnych w usługach pocztowych i kurierskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>68</qualificationId>
+    <qualificationCode>A.68</qualificationCode>
+    <qualificationName>Obsługa klienta w jednostkach administracji</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>69</qualificationId>
+    <qualificationCode>A.69</qualificationCode>
+    <qualificationName>Eksploatacja środków transportu drogowego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>70</qualificationId>
+    <qualificationCode>A.70</qualificationCode>
+    <qualificationName>Organizacja przewozu środkami transportu drogowego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>71</qualificationId>
+    <qualificationCode>B.01</qualificationCode>
+    <qualificationName>Eksploatacja maszyn i urządzeń drogowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>72</qualificationId>
+    <qualificationCode>B.02</qualificationCode>
+    <qualificationName>Wykonywanie robót drogowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>73</qualificationId>
+    <qualificationCode>B.03</qualificationCode>
+    <qualificationName>Wykonywanie płaszczy ochronnych z blachy oraz konstrukcji wsporczych i nośnych izolacji przemysłowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>74</qualificationId>
+    <qualificationCode>B.04</qualificationCode>
+    <qualificationName>Wykonywanie robót kominiarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>75</qualificationId>
+    <qualificationCode>B.05</qualificationCode>
+    <qualificationName>Montaż systemów suchej zabudowy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>76</qualificationId>
+    <qualificationCode>B.06</qualificationCode>
+    <qualificationName>Wykonywanie robót malarsko-tapeciarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>77</qualificationId>
+    <qualificationCode>B.07</qualificationCode>
+    <qualificationName>Wykonywanie robót posadzkarsko-okładzinowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>78</qualificationId>
+    <qualificationCode>B.08</qualificationCode>
+    <qualificationName>Wykonywanie robót związanych z budową i remontem sieci komunalnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>79</qualificationId>
+    <qualificationCode>B.09</qualificationCode>
+    <qualificationName>Wykonywanie robót związanych z montażem i remontem instalacji sanitarnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>80</qualificationId>
+    <qualificationCode>B.10</qualificationCode>
+    <qualificationName>Wykonywanie izolacji przemysłowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>81</qualificationId>
+    <qualificationCode>B.11</qualificationCode>
+    <qualificationName>Wykonywanie izolacji budowlanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>82</qualificationId>
+    <qualificationCode>B.12</qualificationCode>
+    <qualificationName>Wykonywanie robót dekarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>83</qualificationId>
+    <qualificationCode>B.13</qualificationCode>
+    <qualificationName>Wykonywanie robót regulacyjnych i hydrotechnicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>84</qualificationId>
+    <qualificationCode>B.14</qualificationCode>
+    <qualificationName>Wykonywanie i utrzymywanie nawierzchni kolejowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>85</qualificationId>
+    <qualificationCode>B.15</qualificationCode>
+    <qualificationName>Wykonywanie robót ciesielskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>86</qualificationId>
+    <qualificationCode>B.16</qualificationCode>
+    <qualificationName>Wykonywanie robót zbrojarskich i betoniarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>87</qualificationId>
+    <qualificationCode>B.17</qualificationCode>
+    <qualificationName>Wykonywanie robót kamieniarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>88</qualificationId>
+    <qualificationCode>B.18</qualificationCode>
+    <qualificationName>Wykonywanie robót murarskich i tynkarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>89</qualificationId>
+    <qualificationCode>B.19</qualificationCode>
+    <qualificationName>Wykonywanie robót zduńskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>90</qualificationId>
+    <qualificationCode>B.20</qualificationCode>
+    <qualificationName>Montaż konstrukcji budowlanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>91</qualificationId>
+    <qualificationCode>B.21</qualificationCode>
+    <qualificationName>Montaż urządzeń i systemów energetyki odnawialnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>92</qualificationId>
+    <qualificationCode>B.22</qualificationCode>
+    <qualificationName>Eksploatacja urządzeń i systemów energetyki odnawialnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>93</qualificationId>
+    <qualificationCode>B.23</qualificationCode>
+    <qualificationName>Organizacja robót związanych z budową i eksploatacją sieci gazowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>94</qualificationId>
+    <qualificationCode>B.24</qualificationCode>
+    <qualificationName>Organizacja robót związanych z montażem i eksploatacją instalacji gazowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>95</qualificationId>
+    <qualificationCode>B.25</qualificationCode>
+    <qualificationName>Wykonywanie i renowacja detali architektonicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>96</qualificationId>
+    <qualificationCode>B.26</qualificationCode>
+    <qualificationName>Prowadzenie prac renowatorskich elementów architektury</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>97</qualificationId>
+    <qualificationCode>B.27</qualificationCode>
+    <qualificationName>Organizacja robót związanych z budową i eksploatacją sieci komunalnych oraz instalacji sanitarnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>98</qualificationId>
+    <qualificationCode>B.28</qualificationCode>
+    <qualificationName>Organizacja robót związanych z budową i utrzymaniem dróg kolejowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>99</qualificationId>
+    <qualificationCode>B.29</qualificationCode>
+    <qualificationName>Organizacja robót związanych z budową i utrzymaniem obiektów mostowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>100</qualificationId>
+    <qualificationCode>B.30</qualificationCode>
+    <qualificationName>Sporządzanie kosztorysów oraz przygotowywanie dokumentacji przetargowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>101</qualificationId>
+    <qualificationCode>B.31</qualificationCode>
+    <qualificationName>Organizacja robót związanych z regulacją cieków naturalnych oraz budową urządzeń wodnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>102</qualificationId>
+    <qualificationCode>B.32</qualificationCode>
+    <qualificationName>Organizacja robót związanych z budową i utrzymaniem dróg i obiektów mostowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>103</qualificationId>
+    <qualificationCode>B.33</qualificationCode>
+    <qualificationName>Organizacja i kontrolowanie robót budowlanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>104</qualificationId>
+    <qualificationCode>B.34</qualificationCode>
+    <qualificationName>Wykonywanie pomiarów sytuacyjnych i wysokościowych oraz opracowywanie wyników pomiarów</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>105</qualificationId>
+    <qualificationCode>B.35</qualificationCode>
+    <qualificationName>Obsługa geodezyjna inwestycji budowlanych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>106</qualificationId>
+    <qualificationCode>B.36</qualificationCode>
+    <qualificationName>Wykonywanie prac geodezyjnych związanych z katastrem i gospodarką nieruchomościami</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>107</qualificationId>
+    <qualificationCode>E.01</qualificationCode>
+    <qualificationName>Montaż i utrzymanie linii telekomunikacyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>108</qualificationId>
+    <qualificationCode>E.02</qualificationCode>
+    <qualificationName>Montaż, konfiguracja i utrzymanie urządzeń sieci telekomunikacyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>109</qualificationId>
+    <qualificationCode>E.03</qualificationCode>
+    <qualificationName>Montaż urządzeń i systemów mechatronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>110</qualificationId>
+    <qualificationCode>E.04</qualificationCode>
+    <qualificationName>Użytkowanie urządzeń i systemów mechatronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>111</qualificationId>
+    <qualificationCode>E.05</qualificationCode>
+    <qualificationName>Montaż układów i urządzeń elektronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>112</qualificationId>
+    <qualificationCode>E.06</qualificationCode>
+    <qualificationName>Wykonywanie instalacji urządzeń elektronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>113</qualificationId>
+    <qualificationCode>E.07</qualificationCode>
+    <qualificationName>Montaż i konserwacja maszyn i urządzeń elektrycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>114</qualificationId>
+    <qualificationCode>E.08</qualificationCode>
+    <qualificationName>Montaż i konserwacja instalacji elektrycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>115</qualificationId>
+    <qualificationCode>E.09</qualificationCode>
+    <qualificationName>Uruchamianie oraz utrzymanie linii i urządzeń transmisji cyfrowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>116</qualificationId>
+    <qualificationCode>E.10</qualificationCode>
+    <qualificationName>Montaż, uruchamianie i utrzymanie sieci transmisyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>117</qualificationId>
+    <qualificationCode>E.11</qualificationCode>
+    <qualificationName>Obsługa oprogramowania i sprzętu informatycznego wspomagających użytkownika z niepełnosprawnością wzrokową</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>118</qualificationId>
+    <qualificationCode>E.12</qualificationCode>
+    <qualificationName>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>119</qualificationId>
+    <qualificationCode>E.13</qualificationCode>
+    <qualificationName>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>120</qualificationId>
+    <qualificationCode>E.14</qualificationCode>
+    <qualificationName>Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>121</qualificationId>
+    <qualificationCode>E.15</qualificationCode>
+    <qualificationName>Uruchamianie oraz utrzymanie terminali i przyłączy abonenckich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>122</qualificationId>
+    <qualificationCode>E.16</qualificationCode>
+    <qualificationName>Montaż i eksploatacja sieci rozległych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>123</qualificationId>
+    <qualificationCode>E.17</qualificationCode>
+    <qualificationName>Wykonywanie obsługi liniowej statków powietrznych i obsługi hangarowej wyposażenia awionicznego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>124</qualificationId>
+    <qualificationCode>E.18</qualificationCode>
+    <qualificationName>Eksploatacja urządzeń i systemów mechatronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>125</qualificationId>
+    <qualificationCode>E.19</qualificationCode>
+    <qualificationName>Projektowanie i programowanie urządzeń i systemów mechatronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>126</qualificationId>
+    <qualificationCode>E.20</qualificationCode>
+    <qualificationName>Eksploatacja urządzeń elektronicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>127</qualificationId>
+    <qualificationCode>E.21</qualificationCode>
+    <qualificationName>Montaż i eksploatacja urządzeń i systemów sterowania ruchem kolejowym</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>128</qualificationId>
+    <qualificationCode>E.22</qualificationCode>
+    <qualificationName>Eksploatacja instalacji i urządzeń do wytwarzania i przesyłania energii cieplnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>129</qualificationId>
+    <qualificationCode>E.23</qualificationCode>
+    <qualificationName>Eksploatacja instalacji i urządzeń do wytwarzania i przesyłania energii elektrycznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>130</qualificationId>
+    <qualificationCode>E.24</qualificationCode>
+    <qualificationName>Eksploatacja maszyn, urządzeń i instalacji elektrycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>131</qualificationId>
+    <qualificationCode>E.25</qualificationCode>
+    <qualificationName>Montaż i eksploatacja sieci zasilających oraz trakcji elektrycznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>132</qualificationId>
+    <qualificationCode>E.26</qualificationCode>
+    <qualificationName>Montaż i eksploatacja środków transportu szynowego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>133</qualificationId>
+    <qualificationCode>E.27</qualificationCode>
+    <qualificationName>Montaż i eksploatacja urządzeń elektronicznych i systemów informatyki medycznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>134</qualificationId>
+    <qualificationCode>M.01</qualificationCode>
+    <qualificationName>Użytkowanie pojazdów, maszyn, urządzeń i narzędzi stosowanych w rolnictwie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>135</qualificationId>
+    <qualificationCode>M.02</qualificationCode>
+    <qualificationName>Obsługa techniczna oraz naprawa pojazdów, maszyn i urządzeń stosowanych w rolnictwie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>136</qualificationId>
+    <qualificationCode>M.03</qualificationCode>
+    <qualificationName>Obsługa maszyn i urządzeń do przetwórstwa tworzyw sztucznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>137</qualificationId>
+    <qualificationCode>M.04</qualificationCode>
+    <qualificationName>Użytkowanie maszyn i urządzeń do wykonywania odlewów</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>138</qualificationId>
+    <qualificationCode>M.05</qualificationCode>
+    <qualificationName>Użytkowanie maszyn i urządzeń do topienia metali</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>139</qualificationId>
+    <qualificationCode>M.06</qualificationCode>
+    <qualificationName>Użytkowanie maszyn i urządzeń stosowanych w procesach metalurgicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>140</qualificationId>
+    <qualificationCode>M.07</qualificationCode>
+    <qualificationName>Użytkowanie maszyn i urządzeń do obróbki plastycznej metali </qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>141</qualificationId>
+    <qualificationCode>M.08</qualificationCode>
+    <qualificationName>Wykonywanie prac wiertniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>142</qualificationId>
+    <qualificationCode>M.09</qualificationCode>
+    <qualificationName>Eksploatacja otworowa złóż</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>143</qualificationId>
+    <qualificationCode>M.10</qualificationCode>
+    <qualificationName>Eksploatacja złóż metodą odkrywkową</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>144</qualificationId>
+    <qualificationCode>M.11</qualificationCode>
+    <qualificationName>Eksploatacja złóż podziemnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>145</qualificationId>
+    <qualificationCode>M.12</qualificationCode>
+    <qualificationName>Diagnozowanie oraz naprawa elektrycznych i elektronicznych układów pojazdów samochodowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>146</qualificationId>
+    <qualificationCode>M.13</qualificationCode>
+    <qualificationName>Naprawa zegarów i zegarków</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>147</qualificationId>
+    <qualificationCode>M.14</qualificationCode>
+    <qualificationName>Montaż i naprawa elementów i układów optycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>148</qualificationId>
+    <qualificationCode>M.15</qualificationCode>
+    <qualificationName>Montaż i naprawa maszyn i urządzeń precyzyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>149</qualificationId>
+    <qualificationCode>M.16</qualificationCode>
+    <qualificationName>Montaż i obsługa układów automatyki przemysłowej i urządzeń precyzyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>150</qualificationId>
+    <qualificationCode>M.17</qualificationCode>
+    <qualificationName>Montaż i obsługa maszyn i urządzeń</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>151</qualificationId>
+    <qualificationCode>M.18</qualificationCode>
+    <qualificationName>Diagnozowanie i naprawa podzespołów i zespołów pojazdów samochodowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>152</qualificationId>
+    <qualificationCode>M.19</qualificationCode>
+    <qualificationName>Użytkowanie obrabiarek skrawających</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>153</qualificationId>
+    <qualificationCode>M.20</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa elementów maszyn, urządzeń i narzędzi</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>154</qualificationId>
+    <qualificationCode>M.21</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa wyrobów kowalskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>155</qualificationId>
+    <qualificationCode>M.22</qualificationCode>
+    <qualificationName>Wykonywanie elementów kadłuba okrętu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>156</qualificationId>
+    <qualificationCode>M.23</qualificationCode>
+    <qualificationName>Montaż i remont kadłuba okrętu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>157</qualificationId>
+    <qualificationCode>M.24</qualificationCode>
+    <qualificationName>Naprawa uszkodzonych nadwozi pojazdów samochodowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>158</qualificationId>
+    <qualificationCode>M.25</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa elementów, wyrobów oraz pokryć z blachy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>159</qualificationId>
+    <qualificationCode>M.26</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa oprzyrządowania odlewniczego z materiałów niemetalowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>160</qualificationId>
+    <qualificationCode>M.27</qualificationCode>
+    <qualificationName>Montaż i naprawa oprzyrządowania wykonanego z metalu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>161</qualificationId>
+    <qualificationCode>M.28</qualificationCode>
+    <qualificationName>Wykonywanie prac lakierniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>162</qualificationId>
+    <qualificationCode>M.29</qualificationCode>
+    <qualificationName>Montaż systemów rurociągowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>163</qualificationId>
+    <qualificationCode>M.30</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa pomocy wzrokowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>164</qualificationId>
+    <qualificationCode>M.31</qualificationCode>
+    <qualificationName>Wykonywanie obsługi liniowej i hangarowej statków powietrznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>165</qualificationId>
+    <qualificationCode>M.32</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie prac związanych z eksploatacją maszyn, urządzeń i instalacji okrętowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>166</qualificationId>
+    <qualificationCode>M.33</qualificationCode>
+    <qualificationName>Organizacja budowy i remontu okrętu oraz montażu maszyn i instalacji okrętowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>167</qualificationId>
+    <qualificationCode>M.34</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie prac wiertniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>168</qualificationId>
+    <qualificationCode>M.35</qualificationCode>
+    <qualificationName>Prowadzenie procesu przeróbki kopalin stałych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>169</qualificationId>
+    <qualificationCode>M.36</qualificationCode>
+    <qualificationName>Organizacja procesu przeróbki kopalin stałych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>170</qualificationId>
+    <qualificationCode>M.37</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie procesu odlewniczego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>171</qualificationId>
+    <qualificationCode>M.38</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesów metalurgicznych oraz obróbki plastycznej metali</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>172</qualificationId>
+    <qualificationCode>M.39</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie eksploatacji złóż podziemnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>173</qualificationId>
+    <qualificationCode>M.40</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie eksploatacji otworowej złóż</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>174</qualificationId>
+    <qualificationCode>M.41</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie eksploatacji złóż metodą odkrywkową</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>175</qualificationId>
+    <qualificationCode>M.42</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie procesu obsługi pojazdów samochodowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>176</qualificationId>
+    <qualificationCode>M.43</qualificationCode>
+    <qualificationName>Organizacja prac związanych z eksploatacją środków technicznych stosowanych w rolnictwie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>177</qualificationId>
+    <qualificationCode>M.44</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie procesów produkcji maszyn i urządzeń</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>178</qualificationId>
+    <qualificationCode>R.01</qualificationCode>
+    <qualificationName>Obsługa maszyn stosowanych do prac leśnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>179</qualificationId>
+    <qualificationCode>R.02</qualificationCode>
+    <qualificationName>Wykonywanie prac rybackich w akwakulturze</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>180</qualificationId>
+    <qualificationCode>R.03</qualificationCode>
+    <qualificationName>Prowadzenie produkcji rolniczej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>181</qualificationId>
+    <qualificationCode>R.04</qualificationCode>
+    <qualificationName>Prowadzenie produkcji pszczelarskiej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>182</qualificationId>
+    <qualificationCode>R.05</qualificationCode>
+    <qualificationName>Zakładanie i prowadzenie upraw ogrodniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>183</qualificationId>
+    <qualificationCode>R.06</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie przedsiębiorstwa w agrobiznesie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>184</qualificationId>
+    <qualificationCode>R.07</qualificationCode>
+    <qualificationName>Ocena stanu środowiska</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>185</qualificationId>
+    <qualificationCode>R.08</qualificationCode>
+    <qualificationName>Planowanie i realizacja zadań związanych z ochroną środowiska</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>186</qualificationId>
+    <qualificationCode>R.09</qualificationCode>
+    <qualificationName>Prowadzenie chowu, hodowli i inseminacji zwierząt</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>187</qualificationId>
+    <qualificationCode>R.10</qualificationCode>
+    <qualificationName>Wykonywanie czynności pomocniczych z zakresu usług weterynaryjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>188</qualificationId>
+    <qualificationCode>R.11</qualificationCode>
+    <qualificationName>Wykonywanie czynności pomocniczych z zakresu realizacji zadań inspekcji weterynaryjnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>189</qualificationId>
+    <qualificationCode>R.12</qualificationCode>
+    <qualificationName>Pełnienie wachty morskiej i portowej na statku rybackim</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>190</qualificationId>
+    <qualificationCode>R.13</qualificationCode>
+    <qualificationName>Ochrona i zagospodarowanie zasobów leśnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>191</qualificationId>
+    <qualificationCode>R.14</qualificationCode>
+    <qualificationName>Użytkowanie zasobów leśnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>192</qualificationId>
+    <qualificationCode>R.15</qualificationCode>
+    <qualificationName>Organizacja prac rybackich w akwakulturze</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>193</qualificationId>
+    <qualificationCode>R.16</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie produkcji rolniczej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>194</qualificationId>
+    <qualificationCode>R.17</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie produkcji rolniczej i pszczelarskiej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>195</qualificationId>
+    <qualificationCode>R.18</qualificationCode>
+    <qualificationName>Planowanie i organizacja prac ogrodniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>196</qualificationId>
+    <qualificationCode>R.19</qualificationCode>
+    <qualificationName>Organizowanie chowu i hodowli koni</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>197</qualificationId>
+    <qualificationCode>R.20</qualificationCode>
+    <qualificationName>Szkolenie i użytkowanie koni</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>198</qualificationId>
+    <qualificationCode>R.21</qualificationCode>
+    <qualificationName>Projektowanie, urządzanie i pielęgnacja roślinnych obiektów architektury krajobrazu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>199</qualificationId>
+    <qualificationCode>R.22</qualificationCode>
+    <qualificationName>Organizacja prac związanych z budową oraz konserwacją obiektów małej architektury krajobrazu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>200</qualificationId>
+    <qualificationCode>R.23</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie robót związanych z budową obiektów inżynierii środowiska</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>201</qualificationId>
+    <qualificationCode>R.24</qualificationCode>
+    <qualificationName>Organizacja i prowadzenie robót melioracyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>202</qualificationId>
+    <qualificationCode>R.25</qualificationCode>
+    <qualificationName>Wykonywanie prac geologicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>203</qualificationId>
+    <qualificationCode>R.26</qualificationCode>
+    <qualificationName>Wykonywanie kompozycji florystycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>204</qualificationId>
+    <qualificationCode>T.01</qualificationCode>
+    <qualificationName>Wykonywanie prac pomocniczych w obiektach świadczących usługi hotelarskie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>205</qualificationId>
+    <qualificationCode>T.02</qualificationCode>
+    <qualificationName>Produkcja wyrobów spożywczych z wykorzystaniem maszyn i urządzeń</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>206</qualificationId>
+    <qualificationCode>T.03</qualificationCode>
+    <qualificationName>Produkcja wyrobów piekarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>207</qualificationId>
+    <qualificationCode>T.04</qualificationCode>
+    <qualificationName>Produkcja wyrobów cukierniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>208</qualificationId>
+    <qualificationCode>T.05</qualificationCode>
+    <qualificationName>Produkcja przetworów mięsnych i tłuszczowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>209</qualificationId>
+    <qualificationCode>T.06</qualificationCode>
+    <qualificationName>Sporządzanie potraw i napojów</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>210</qualificationId>
+    <qualificationCode>T.07</qualificationCode>
+    <qualificationName>Prowadzenie działalności turystycznej na obszarach wiejskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>211</qualificationId>
+    <qualificationCode>T.08</qualificationCode>
+    <qualificationName>Prowadzenie gospodarstwa agroturystycznego</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>212</qualificationId>
+    <qualificationCode>T.09</qualificationCode>
+    <qualificationName>Wykonywanie usług kelnerskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>213</qualificationId>
+    <qualificationCode>T.10</qualificationCode>
+    <qualificationName>Organizacja usług gastronomicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>214</qualificationId>
+    <qualificationCode>T.11</qualificationCode>
+    <qualificationName>Planowanie i realizacja usług w recepcji</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>215</qualificationId>
+    <qualificationCode>T.12</qualificationCode>
+    <qualificationName>Obsługa gości w obiekcie świadczącym usługi hotelarskie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>216</qualificationId>
+    <qualificationCode>T.13</qualificationCode>
+    <qualificationName>Planowanie i realizacja imprez i usług turystycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>217</qualificationId>
+    <qualificationCode>T.14</qualificationCode>
+    <qualificationName>Prowadzenie informacji turystycznej oraz sprzedaż usług turystycznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>218</qualificationId>
+    <qualificationCode>T.15</qualificationCode>
+    <qualificationName>Organizacja żywienia i usług gastronomicznych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>219</qualificationId>
+    <qualificationCode>T.16</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie produkcji wyrobów spożywczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>220</qualificationId>
+    <qualificationCode>T.17</qualificationCode>
+    <qualificationName>Organizacja i nadzorowanie produkcji wyrobów mleczarskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>221</qualificationId>
+    <qualificationCode>Z.01</qualificationCode>
+    <qualificationName>Świadczenie usług w zakresie masażu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>222</qualificationId>
+    <qualificationCode>Z.02</qualificationCode>
+    <qualificationName>Wykonywanie i dobieranie przedmiotów ortopedycznych oraz środków pomocniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>223</qualificationId>
+    <qualificationCode>Z.03</qualificationCode>
+    <qualificationName>Ochrona osób i mienia</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>224</qualificationId>
+    <qualificationCode>Z.04</qualificationCode>
+    <qualificationName>Świadczenie usług opiekuńczych osobie chorej i niesamodzielnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>225</qualificationId>
+    <qualificationCode>Z.05</qualificationCode>
+    <qualificationName>Świadczenie usług opiekuńczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>226</qualificationId>
+    <qualificationCode>Z.06</qualificationCode>
+    <qualificationName>Świadczenie usług opiekuńczo-wspierających osobie podopiecznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>227</qualificationId>
+    <qualificationCode>Z.07</qualificationCode>
+    <qualificationName>Świadczenie usług opiekuńczo-wspierających osobie starszej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>228</qualificationId>
+    <qualificationCode>Z.08</qualificationCode>
+    <qualificationName>Udzielanie pomocy i organizowanie wsparcia osobie niepełnosprawnej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>229</qualificationId>
+    <qualificationCode>Z.09</qualificationCode>
+    <qualificationName>Świadczenie usług w zakresie terapii zajęciowej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>230</qualificationId>
+    <qualificationCode>Z.10</qualificationCode>
+    <qualificationName>Świadczenie usług medycznych w zakresie ortoptyki</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>231</qualificationId>
+    <qualificationCode>Z.11</qualificationCode>
+    <qualificationName>Świadczenie usług opiekuńczych i wspomagających rozwój dziecka</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>232</qualificationId>
+    <qualificationCode>Z.12</qualificationCode>
+    <qualificationName>Wykonywanie medycznych czynności ratunkowych i innych świadczeń opieki zdrowotnej w stanach nagłego zagrożenia zdrowotnego oraz prowadzenie edukacji w tym zakresie</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>233</qualificationId>
+    <qualificationCode>Z.13</qualificationCode>
+    <qualificationName>Zarządzanie bezpieczeństwem w środowisku pracy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>234</qualificationId>
+    <qualificationCode>Z.14</qualificationCode>
+    <qualificationName>Prowadzenie działalności profilaktyczno-leczniczej pod nadzorem i na zlecenie lekarza dentysty oraz utrzymanie gabinetu w gotowości do pracy i prowadzenie promocji zdrowia</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>235</qualificationId>
+    <qualificationCode>Z.15</qualificationCode>
+    <qualificationName>Asystowanie lekarzowi dentyście i utrzymanie gabinetu w gotowości do pracy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>236</qualificationId>
+    <qualificationCode>Z.16</qualificationCode>
+    <qualificationName>Świadczenie usług w zakresie dietetyki</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>237</qualificationId>
+    <qualificationCode>Z.17</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa wyrobów medycznych z zakresu protetyki dentystycznej, ortodoncji oraz epitez twarzy</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>238</qualificationId>
+    <qualificationCode>Z.18</qualificationCode>
+    <qualificationName>Świadczenie usług medycznych w zakresie protetyki słuchu</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>239</qualificationId>
+    <qualificationCode>Z.19</qualificationCode>
+    <qualificationName>Sporządzanie i wytwarzanie produktów leczniczych oraz prowadzenie obrotu środkami farmaceutycznymi i materiałami medycznymi</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>240</qualificationId>
+    <qualificationCode>Z.20</qualificationCode>
+    <qualificationName>Wykonywanie dezynfekcji i sterylizacji medycznej</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>241</qualificationId>
+    <qualificationCode>Z.21</qualificationCode>
+    <qualificationName>Świadczenie usług medycznych w zakresie diagnostyki obrazowej, elektromedycznej i radioterapii</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>242</qualificationId>
+    <qualificationCode>Z.22</qualificationCode>
+    <qualificationName>Wykonywanie działań ratowniczych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>243</qualificationId>
+    <qualificationCode>Z.23</qualificationCode>
+    <qualificationName>Zarządzanie działaniami ratowniczymi</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>244</qualificationId>
+    <qualificationCode>S.01</qualificationCode>
+    <qualificationName>Wykonywanie i naprawa wyrobów złotniczych i jubilerskich</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>245</qualificationId>
+    <qualificationCode>S.02</qualificationCode>
+    <qualificationName>Realizacja nagrań</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>246</qualificationId>
+    <qualificationCode>S.03</qualificationCode>
+    <qualificationName>Realizacja nagłośnień</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>247</qualificationId>
+    <qualificationCode>S.04</qualificationCode>
+    <qualificationName>Montaż nagrań dźwiękowych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>248</qualificationId>
+    <qualificationCode>S.05</qualificationCode>
+    <qualificationName>Realizacja nagrań studyjnych</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>249</qualificationId>
+    <qualificationCode>S.06</qualificationCode>
+    <qualificationName>Budowa fortepianów i pianin</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>250</qualificationId>
+    <qualificationCode>S.07</qualificationCode>
+    <qualificationName>Naprawa fortepianów i pianin</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>251</qualificationId>
+    <qualificationCode>S.08</qualificationCode>
+    <qualificationName>Strojenie fortepianów i pianin</qualificationName>
+  </Qualification>
+  <Qualification>
+    <qualificationId>252</qualificationId>
+    <qualificationCode>S.09</qualificationCode>
+    <qualificationName>Przygotowanie i organizacja produkcji filmowej/telewizyjnej</qualificationName>
+  </Qualification>
+</Qualifications>

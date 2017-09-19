@@ -1,0 +1,341 @@
+D:\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\Ewa\Desktop\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\Ewa\Desktop\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT\AG PULPIT\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+D:\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_03\AG PULPIT_2015_08_03\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+C:\Users\ruszaj\Documents\Visual Studio 2010\Projects\AG PULPIT_2015_08_05\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form1.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form3.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Preliminarz.resources
+D:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Preliminarz.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_dzisiaj zepsuty\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Preliminarz.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+G:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\WindowsFormsAG_2015-08-13\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Preliminarz.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG_2015-08-13\WindowsFormsAG_2015-08-14\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Preliminarz.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+G:\aaaaaaaagggggggg\AG\WindowsFormsAG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\aaaaaaaagggggggg\AG\WindowsFormsAG 05-09\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+C:\Users\Zibi81\Documents\Visual Studio 2010\Projects\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+G:\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+G:\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+G:\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\paindra\N_AG\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.exe
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.pdb
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.exe
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\bin\Debug\WindowsFormsAG.pdb
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csprojResolveAssemblyReference.cache
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.AlgorithmSettingsForm.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.BestScheduleForm.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Harmonogram.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Form2.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ExaminerForm.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.Properties.Resources.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExamForm.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.ShowExaminerForm.resources
+D:\paindra\AG\WindowsFormsAG\WindowsFormsAG\obj\x86\Debug\WindowsFormsAG.csproj.GenerateResource.Cache
